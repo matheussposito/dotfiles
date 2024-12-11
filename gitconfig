@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matheus_so@yahoo.com.br
+	name = Matheus Sposito
